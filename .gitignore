@@ -1,0 +1,8 @@
+/ms_admin/node_modules
+/ms_admin/package-lock.json
+/ms_front/node_modules
+/ms_front/package-lock.json
+/ms_front/dist/
+/node_modules
+
+
